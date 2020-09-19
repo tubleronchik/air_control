@@ -1,6 +1,6 @@
 HTTP service run on `http://localhost:5000/`
 ***
-# Installation
+# Installation:
 ```bash
 pip3 install flask
 git clone https://github.com/tubleronchik/air_control.git
